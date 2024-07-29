@@ -17,19 +17,19 @@ This project is a simple frontend of an edit page of an app using Flutter.
 ### Installation
 
 1. Clone the repository:
-   \`\`\`
+   ```
    git clone <repository_url>
-   \`\`\`
+   ```
 
 2. Navigate to the project directory:
-   \`\`\`
+   ```
    cd edit_page
-   \`\`\`
+   ```
 
 3. Install the dependencies:
-   \`\`\`
+   ```
    flutter pub get
-   \`\`\`
+   ```
 
 ### Running the App
 
