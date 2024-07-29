@@ -1,21 +1,49 @@
-<<<<<<< HEAD
-# edit_page
+# Edit Page Frontend
 
-A new Flutter project.
+This project is a simple frontend of an edit page of an app using Flutter.
+
+## Features
+
+- Edit fields for user information
+- Save changes button
+- Stylish design with Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter-editpage
-Simple Edit Page made Using Flutter 
->>>>>>> origin/main
+1. Clone the repository:
+   \`\`\`
+   git clone <repository_url>
+   \`\`\`
+
+2. Navigate to the project directory:
+   \`\`\`
+   cd edit_page
+   \`\`\`
+
+3. Install the dependencies:
+   \`\`\`
+   flutter pub get
+   \`\`\`
+
+### Running the App
+
+To run the app, use the following command:
+\`\`\`
+flutter run
+\`\`\`
+
+## Usage
+
+- Open the app on your emulator or connected device.
+- Edit the fields with the desired information.
+- Press the 'Save' button to save the changes.
+
+## Built With
+
+- [Flutter](https://flutter.dev/) - The framework used
